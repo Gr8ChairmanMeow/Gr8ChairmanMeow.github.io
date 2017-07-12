@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+	position: relative;
+	margin:0;
+	padding:0;
+}
+
+body {
+	background:darkgrey;
+	text-align:center;
+}
+
+hr {
+	border: 5px dotted grey;
+}
